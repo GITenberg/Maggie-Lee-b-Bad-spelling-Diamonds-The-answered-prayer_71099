@@ -1,0 +1,32 @@
+_repo: Maggie-Lee-b-Bad-spelling-Diamonds-The-answered-prayer_71099
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Holmes, Mary Jane
+    aliases:
+    - Holmes, Mary Jane (Hawes)
+    - Holmes, Mary J.
+    birthdate: 1825
+    deathdate: 1907
+    gutenberg_agent_id: '1239'
+    url: http://www.gutenberg.org/2009/agents/1239
+    wikipedia: https://en.wikipedia.org/wiki/Mary_Jane_Holmes
+description: ''
+gutenberg_issued: '2023-07-03'
+identifiers:
+  gutenberg: '71099'
+language: en
+pgterms:marc904: https://catalog.hathitrust.org/Record/100263582
+pgterms:marc905: 20221224144259holmes
+pgterms:marc906: '1881'
+pgterms:marc907: CA
+production_note: Richard Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from images made available by the HathiTrust Digital Library.)
+publication_note: '  $aCanada :$bJ. Ross Robertson, $c1881.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Maggie Lee! : $b Bad spelling, Diamonds, The answered prayer'
+url: http://www.gutenberg.org/ebooks/71099
